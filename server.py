@@ -3,7 +3,7 @@
 __author__ = "Kittisak Phomsri"
 __copyright__ = "Copyright 2018, VAMStack Co.,Ltd."
 # __license__ = ""
-__version__ = "0.0.2"
+__version__ = "0.0.3"
 __maintainer__ = "Kittisak Phomsri"
 __email__ = "thekitp@gmail.com"
 __status__ = "Development"
